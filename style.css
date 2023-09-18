@@ -1,0 +1,12 @@
+body {
+    background-image: url("hart.jpg") ;
+    background-size: cover;
+}
+p{
+    font-size:320px;
+    font-family:cursive;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color:#ff0a00;
+}
